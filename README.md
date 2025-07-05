@@ -39,6 +39,7 @@ Meu nome é Pedro Paranhos, tenho 25 anos e sou natural da Bahia. Sou formado no
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 <br/>
+<br/>
 
 ---
 
@@ -57,7 +58,7 @@ Meu nome é Pedro Paranhos, tenho 25 anos e sou natural da Bahia. Sou formado no
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroparanhos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroparanhos&theme=dark&layout=compact&custom_title=Tecnologia" 
     />
 
 </p>
