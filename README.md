@@ -57,7 +57,6 @@ Meu nome é Pedro Paranhos, tenho 25 anos e sou natural da Bahia. Sou formado no
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     ssrc="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroparanhos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 
